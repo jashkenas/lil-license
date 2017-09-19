@@ -42,7 +42,7 @@ This license is a terrible idea. Open source authors need to be paid for their
 work!
 
 Check out [License Zero](https://licensezero.com/). It helps open source
-software stay free to use and modify for non-commercial purposes, while
+software stay free for use and modification for non-commercial purposes, while
 commercial users can be required to pay after a trial period.
 
 
