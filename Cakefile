@@ -17,9 +17,9 @@ matcher = (name) ->
 task 'build', 'build the HTML source from the LICENSE file', ->
   source = fs.readFileSync('LICENSE').toString().split(/\n{2,}/g)
   faq    = fs.readFileSync('FAQ.md').toString()
-  index  = fs.readFileSync('index.html').toString()
+  v1     = fs.readFileSync('v1.html').toString()
 
-  index = index.replace matcher('lil-license'), section('lil-license', wrap(source))
-  index = index.replace matcher('faq'), section('faq', md.render(faq))
+  v1 = v1.replace matcher('lil-license'), section('lil-license', wrap(source))
+  v1 = v1.replace matcher('faq'), section('faq', md.render(faq))
 
-  fs.writeFileSync 'index.html', index
+  fs.writeFileSync 'v1.html', v1
