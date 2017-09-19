@@ -21,7 +21,7 @@ include the license verbatim or link to it instead, and there's also a bit about
 having no obligations to provide support or updates to your code.
 
 
-This license won't work for me because of [ ... ] Can I fix it?
+This license won't work for my project because of [ ... ] Can I fix it?
 
 You sure can! The "LIL" actually stands for "Lil Improvable License". Go ahead
 and make your changes. If you think they'd benefit everyone, please submit them
