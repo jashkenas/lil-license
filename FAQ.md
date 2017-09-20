@@ -38,12 +38,12 @@ the t's, permissive open source license, try
 you well.
 
 
-This license is a terrible idea. Open source authors need to be paid for their
-work!
+This license is a terrible idea. Authors of software need to be able to be paid
+for their work!
 
-Check out [License Zero](https://licensezero.com/). It helps open source
-software stay free for use and modification for non-commercial purposes, while
-commercial users can be required to pay after a trial period.
+Check out [License Zero](https://licensezero.com/). It helps software stay free
+for use and modification for non-commercial purposes, while commercial users
+can be required to pay after a trial period.
 
 
 I decided to license my project under the LIL. Does anyone care?
