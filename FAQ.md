@@ -38,8 +38,8 @@ the t's, permissive open source license, try
 you well.
 
 
-This license is a terrible idea. Authors of software need to be able to be paid
-for their work!
+This license is a terrible idea. Software authors need to be able to be paid for
+their work!
 
 Check out [License Zero](https://licensezero.com/). It helps software stay free
 for use and modification for non-commercial purposes, while commercial users
