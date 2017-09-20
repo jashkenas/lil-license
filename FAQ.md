@@ -48,4 +48,5 @@ commercial users can be required to pay after a trial period.
 
 I decided to license my project under the LIL. Does anyone care?
 
-We do. Please take a moment to [add it to the wiki](http://example.com).
+We do. Please take a moment to
+[add it to the wiki](https://github.com/jashkenas/lil-license/wiki/List-of-LIL-Licensed-Projects).
