@@ -7,7 +7,7 @@ The MIT License is lovely: functional, relatively clear in intent to all readers
 — not just lawyers — and has stood the test of time.
 [Roughly half](https://github.com/blog/1964-open-source-license-usage-on-github-com)
 of all open source projects use it. But it was written in the 1980s, and as open
-source authors and users, we've learned that, in practice, we need just little
+source authors and users we've learned that, in practice, we need just a little
 bit more: a declaration of the intent not to use software patents against users,
 and the shared understanding that contributions back to the project will be
 incorporated under the same terms of the license.
@@ -21,9 +21,9 @@ include the license verbatim or link to it instead, and there's also a bit about
 having no obligations to provide support or updates to your code.
 
 
-This license won't work for my project because of [ ... ] Can I fix it?
+This license won't work for my project because of [ ... ]. Can I fix it?
 
-You sure can! The "LIL" actually stands for "Lil Improvable License". Go ahead
+You sure can! The Lil, or "LIL", stands for "Lil Improvable License". Go ahead
 and make your changes. If you think they'd benefit everyone, please submit them
 [on Github](https://github.com/jashkenas/lil-license). The goal here is to
 whittle this thing down to a minimal social and legal contract among authors,
@@ -32,8 +32,8 @@ contributors and users of open source. In plain English.
 
 This license is a terrible idea. We need something more legally robust!
 
-If you're looking for a tried and tested, fully-baked, dot the i's and cross
-the tee's, permissive open source license, try
+If you're looking for a tried and tested, fully baked, dot the i's and cross
+the t's, permissive open source license, try
 [the Apache License](https://www.apache.org/licenses/LICENSE-2.0). It will serve
 you well.
 
