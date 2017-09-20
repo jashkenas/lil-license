@@ -1,5 +1,5 @@
 # Handy shcortcut to build live as you work:
-# fswatch -o LICENSE README | xargs -n1 -I{} cake build
+# fswatch -o LICENSE FAQ.md | xargs -n1 -I{} cake build
 
 fs = require 'fs'
 md = require('markdown-it')()
@@ -16,7 +16,7 @@ matcher = (name) ->
 
 task 'build', 'build the HTML source from the LICENSE file', ->
   source = fs.readFileSync('LICENSE').toString().split(/\n{2,}/g)
-  faq    = fs.readFileSync('README').toString()
+  faq    = fs.readFileSync('FAQ.md').toString()
   v1     = fs.readFileSync('v1.html').toString()
 
   v1 = v1.replace matcher('lil-license'), section('lil-license', wrap(source))
