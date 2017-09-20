@@ -3,8 +3,9 @@ FAQ
 
 Why publish yet another license? Why not just use [MIT](http://mitlicense.org)?
 
-The MIT License is lovely: functional, relatively clear in intent to all readers
-— not just lawyers — and has stood the test of time.
+It's true that license proliferation is a real problem. And the MIT License
+is lovely: functional, relatively clear in intent to all readers — not just
+lawyers — and has stood the test of time.
 [Roughly half](https://github.com/blog/1964-open-source-license-usage-on-github-com)
 of all open source projects use it. But it was written in the 1980s, and as open
 source authors and users we've learned that, in practice, we need just a little
