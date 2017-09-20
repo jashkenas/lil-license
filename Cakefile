@@ -1,3 +1,5 @@
+# `cake build` rebuilds index.html from the contents of LICENSE and FAQ.md
+#
 # Handy shcortcut to build live as you work:
 # fswatch -o LICENSE FAQ.md | xargs -n1 -I{} cake build
 
