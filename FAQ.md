@@ -15,15 +15,18 @@ incorporated under the same terms of the license.
 
 What else is different about the Lil License?
 
-Some of the legal phrasing has been simplified, the legally UNNECESSARY SHOUTY
-TEXT quieted, and the words generally boiled down to a bare minimum. You may
+Some of the legal phrasing has been simplified, the [legally UNNECESSARY SHOUTY
+TEXT](https://www.cameronhuff.com/blog/why-not-use-CAPITAL-LETTERS/index.html)
+quieted, and the words generally boiled down to a bare minimum. You may
 include the license verbatim or link to it instead, and there's also a bit about
 having no obligations to provide support or updates to your code.
 
 
 This license won't work for my project because of [ ... ]. Can I fix it?
 
-You sure can! The Lil, or "LIL", stands for "Lil Improvable License". Go ahead
+You certainly can. Although we've put significant care and thought into the
+precise formulation of this license, there's no reason why it shouldn't be made
+even better. In fact, the "Lil" stands for "Lil Improvable License". Go ahead
 and make your changes. If you think they'd benefit everyone, please submit them
 [on Github](https://github.com/jashkenas/lil-license). The goal here is to
 whittle this thing down to a minimal social and legal contract among authors,
