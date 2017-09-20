@@ -35,10 +35,9 @@ contributors and users of open source. In plain English.
 
 This license is a terrible idea. We need something more legally robust!
 
-If you're looking for a tried and tested, fully baked, dot the i's and cross
-the t's, permissive open source license, try
-[the Apache License](https://www.apache.org/licenses/LICENSE-2.0). It will serve
-you well.
+If you're looking for a tried and tested, every term defined, dot the i's and
+cross the t's, permissive open source license, try [the Apache
+License](https://www.apache.org/licenses/LICENSE-2.0). It will serve you well.
 
 
 This license is a terrible idea. Software authors need to be able to be paid for
